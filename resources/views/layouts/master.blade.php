@@ -43,7 +43,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <link href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" rel="stylesheet">
     <link href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap4.min.css" rel="stylesheet">
 
-    <script src="https://cdn.ckeditor.com/4.22.1/standard/ckeditor.js"></script>
+    <script src="https://cdn.ckeditor.com/4.25.0-lts/standard/ckeditor.js"></script>
 
   @yield('additional_styles')
 
